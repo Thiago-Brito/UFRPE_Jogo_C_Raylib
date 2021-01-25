@@ -1,1 +1,1 @@
-# Jogo feito em C com a interface Raylib
+# Jogo feito em C feito com a interface Raylib
